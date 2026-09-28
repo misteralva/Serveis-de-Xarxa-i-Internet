@@ -4,15 +4,15 @@ Este documento recoge, paso a paso, todo el proceso: comprobación de los parám
 
 ## Índice
 
-1. [Ficha técnica y verificación de datos del sistema](#-1-ficha-técnica-y-verificación-de-datos-del-sistema)
-2. [Configuración de la red estática en Debian](#️-2-configuración-de-la-red-estática-en-debian)
-3. [Instalación del servidor DNS (BIND9)](#-3-instalación-del-servidor-dns-bind9)
-4. [Declaración de zonas (named.conf.local)](#-4-declaración-de-zonas-namedconflocal)
-5. [Creación de ficheros de zona (directa e inversa)](#-5-creación-de-ficheros-de-zona-directa-e-inversa)
-6. [Configuración de opciones globales (named.conf.options)](#️-6-configuración-de-opciones-globales-namedconfoptions)
-7. [Forzar el uso de IPv4 (/etc/default/named)](#-7-forzar-el-uso-de-ipv4-etcdefaultnamed)
-8. [Puesta en marcha y fijado del resolvedor (/etc/resolv.conf)](#-8-puesta-en-marcha-y-fijado-del-resolvedor-etcresolvconf)
-9. [Pruebas de verificación con nslookup](#-9-pruebas-de-verificación-con-nslookup)
+1. [Ficha técnica y verificación de datos del sistema](#1-ficha-técnica-y-verificación-de-datos-del-sistema)
+2. [Configuración de la red estática en Debian](#2-configuración-de-la-red-estática-en-debian)
+3. [Instalación del servidor DNS (BIND9)](#3-instalación-del-servidor-dns-bind9)
+4. [Declaración de zonas (named.conf.local)](#4-declaración-de-zonas-namedconflocal)
+5. [Creación de ficheros de zona (directa e inversa)](#5-creación-de-ficheros-de-zona-directa-e-inversa)
+6. [Configuración de opciones globales (named.conf.options)](#6-configuración-de-opciones-globales-namedconfoptions)
+7. [Forzar el uso de IPv4 (/etc/default/named)](#7-forzar-el-uso-de-ipv4-etcdefaultnamed)
+8. [Puesta en marcha y fijado del resolvedor (/etc/resolv.conf)](#8-puesta-en-marcha-y-fijado-del-resolvedor-etcresolvconf)
+9. [Pruebas de verificación con nslookup](#9-pruebas-de-verificación-con-nslookup)
 
 ---
 
