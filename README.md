@@ -1,12 +1,12 @@
-# ASIR - Serveis de Xarxa i Internet (0375)
-Administració de Sistemes Informàtics en Xarxa
+# ASIR - Network and Internet Services (0375)
 
-Repositorio destinado a la documentación, despliegue, configuración y resolución de prácticas relacionadas con el diseño, implementación y administración de los servicios de red e internet en entornos profesionales.
+**Network Systems Administration (ASIR)**
 
----
+Repository dedicated to the documentation, deployment, configuration and resolution of practical exercises related to the design, implementation and administration of network and internet services in professional environments.
 
-## 🌐 Servicios y Tecnologías
-* **Servicios de Directorio y Autenticación:** Implementación y gestión de usuarios y políticas.
-* **Servicios de Red Core:** Configuración avanzada de DNS, DHCP y enrutamiento.
-* **Servicios Web y de Correo:** Despliegue de servidores web, certificados digitales y servidores de correo electrónico.
-* **Seguridad Perimetral y Acceso Remoto:** VPNs, cortafuegos y control de acceso a servicios.
+## 🌐 Services and Technologies
+
+- **Directory and Authentication Services:** Implementation and management of users and policies.
+- **Core Network Services:** Advanced configuration of DNS, DHCP and routing.
+- **Web and Mail Services:** Deployment of web servers, digital certificates and email servers.
+- **Perimeter Security and Remote Access:** VPNs, firewalls and access control to services.
